@@ -3,7 +3,7 @@
 //  H4X0R News
 //
 //  Created by Chukwubuikem Chukwudi on 9/02/22.
-//  Copyright © 2019 Angela Yu. All rights reserved.
+
 //
 
 import Foundation
